@@ -46,7 +46,7 @@ public class Main {
     {
       System.out.println();
       System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-      System.out.println("1. Restar salud al tanque seleccionado");
+      System.out.println("1. Restar salud a todos los tanques");
       System.out.println("2. Lanzar una bomba atomica");
       System.out.println("3. Encuentra el primer elemento minimo y lo duplica");
       System.out.println("4. Muestra la frase de la abuela");
