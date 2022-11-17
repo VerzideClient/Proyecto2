@@ -30,7 +30,7 @@ public class Main {
         }
         else if (opcion == 2)
         {
-          TanqueNormal alien = new TanqueNormal(20);
+          TanqueAlien alien = new TanqueAlien(20);
           tanque[k][i] = "BA-"+String.valueOf(alien.getSalud());
         }
         
